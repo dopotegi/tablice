@@ -1,0 +1,9 @@
+CENTRUM MISJI — publikacja na GitHub Pages
+
+1. Rozpakuj archiwum ZIP.
+2. W repozytorium tablice prześlij plik centrum_misji.html oraz cały folder grafiki z jego zawartością.
+3. Zachowaj folder grafiki obok pliku HTML (na tym samym poziomie).
+4. Jeśli GitHub nie pozwala przesłać folderu, zaznacz wszystkie pliki z folderu grafiki i przeciągnij je do repozytorium, zachowując ścieżkę grafiki/.
+5. Otwórz centrum_misji.html przez GitHub Pages.
+
+Uwaga: sam plik HTML bez folderu grafiki nie wyświetli teł.
